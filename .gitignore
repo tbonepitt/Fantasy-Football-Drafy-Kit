@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Local reference material and superseded builds
+work/*.mhtml
+outputs/2026_Fantasy_Draft_Day_Board_Updated.html
